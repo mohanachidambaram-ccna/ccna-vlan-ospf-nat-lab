@@ -57,5 +57,8 @@ This lab helped me understand real-world network configuration and troubleshooti
 
 ---
 
+## 📥 Download Lab File
+[Download Packet Tracer File](vlan-ospf-nat-lab.pkt)
+
 ## 👨‍💻 Author
 Mohana Chidambaram
